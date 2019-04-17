@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">重构项目</string>
+    <string name="register">注册</string>
+    <string name="task_detail_title">任务详情</string>
+    <string name="tab1">任务</string>
+    <string name="setting_icon">TaskManager</string>
+    <string name="tab3">日历视图</string>
+    <string name="tab4">设置</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_call"
+        android:checked="true"
+        android:icon="@drawable/ic_action_set"
+        android:title="@string/tab1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_contact"
+        android:checked="false"
+        android:icon="@drawable/ic_action_cal"
+        android:title="@string/tab3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_setting"
+        android:checked="false"
+        android:icon="@drawable/ic_action_me"
+        android:title="@string/tab4"
+        app:showAsAction="ifRoom" />
+</menu>
