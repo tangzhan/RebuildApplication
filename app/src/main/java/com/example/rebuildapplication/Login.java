@@ -53,7 +53,6 @@ public class Login extends AppCompatActivity {
         switch (view.getId()) {
             case R.id.btn_login:
                 login();
-                finish();
                 break;
             case R.id.tv_register:
                 startActivity(new Intent(Login.this, Register.class));

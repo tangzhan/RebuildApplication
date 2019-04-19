@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TaskEdit"></activity>
+        <activity android:name=".ChangePassword"></activity>
+        <activity android:name=".TaskEdit" />
         <activity android:name=".Search" />
         <activity android:name=".TaskDetail" />
         <activity android:name=".AddTask" />
